@@ -33,7 +33,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #1D809F;
+  --bs-primary: #642B7C;
   --bs-secondary: #ecb807;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -3024,13 +3024,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #1D809F;
-  border-color: #1D809F;
+  background-color: #642B7C;
+  border-color: #642B7C;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #196d87;
-  border-color: #17667f;
+  background-color: #FA5721;
+  border-color: #FA5721;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -11463,7 +11463,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-masthead2.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
